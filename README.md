@@ -4,8 +4,7 @@ TinDog facilitates connections between dog owners and their pets, allowing them 
 
 
 
-Features:
-
+FEATURES:
 Easy to use interface
 Elite clientele
 Guaranteed to work
@@ -13,15 +12,13 @@ Various pricing plans to suit every dog's needs
 
 
 
-Technologies Used:
-
+TECHNOLOGIES USED:
 HTML
 CSS (Bootstrap)
 
 
 
-Getting Started:
-
+GETTING STARTED:
 To run the TinDog website locally on your machine, follow these steps:
 Clone this repository to your local machine.
 Open the index.html file in your preferred web browser.
@@ -29,8 +26,7 @@ Explore the various sections of the website and interact with its features.
 
 
 
-Contributing:
-
+CONTRIBUTING:
 If you would like to contribute to the development of TinDog, please follow these guidelines:
 Fork this repository.
 Create a new branch for your feature or bug fix.
