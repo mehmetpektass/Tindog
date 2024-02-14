@@ -15,7 +15,7 @@ Various pricing plans to suit every dog's needs
 
 TECHNOLOGIES USED:
 
-HTML
+HTML,
 CSS (Bootstrap)
 
 
